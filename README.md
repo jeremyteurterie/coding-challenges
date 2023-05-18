@@ -31,27 +31,3 @@
 | [Challenges](./challenges/primitives-challenges.md#home)  | [Challenges](./challenges/functions-challenges.md#home)  | [Challenges](./challenges/objects-challenges.md#home)  | [Challenges](./challenges/collections-challenges.md#home)   | [Challenges](./challenges/async-challenges.md#home) | |
 
 </div>
-
----
-
-### Usage Guide and Study materials
-
-- [Usage Guide](./usageGuide.md)
-- [Study Materials](https://github.com/sadanandpai/frontend-learning-kit)
-
-### Contributing Guide
-
-If you want to contribute, improve or suggest changes to this repo, then check out the [Contributing Guide](./contributing.md)
-<br/><br/>
-
-### Stargazers
-
-[![Stargazers repo roster for @sadanandpai/javascript-code-challenges](https://reporoster.com/stars/sadanandpai/javascript-code-challenges)](https://github.com/sadanandpai/javascript-code-challenges/stargazers)
-
-### Forkers
-
-[![Forkers repo roster for @sadanandpai/javascript-code-challenges](https://reporoster.com/forks/sadanandpai/javascript-code-challenges)](https://github.com/sadanandpai/javascript-code-challenges/network/members)
-
-### License
-
-This repository is MIT licensed. [Read more](./LICENSE)
